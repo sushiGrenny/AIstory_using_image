@@ -135,9 +135,6 @@ notebook==6.4.0
 numexpr==2.8.3
 nvidia-ml-py3==7.352.0
 oauthlib==3.2.0
-opencv-python==4.5.5.64
-openpyxl==3.2.0b1
-opt-einsum==3.3.0
 outcome==1.2.0
 overrides==3.1.0
 packaging==21.3
@@ -145,11 +142,6 @@ scikit-image==0.19.3
 scikit-learn==1.1.1
 spacy==3.4.0
 tensorflow==2.9.1
-tensorflow-estimator==2.9.0
-tensorflow-gpu==2.9.1
-tensorflow-hub==0.12.0
-tensorflow-io-gcs-filesystem==0.26.0
-tensorflow-probability==0.17.0
 termcolor==1.1.0
 terminado==0.10.1
 testpath==0.5.0
@@ -163,7 +155,6 @@ timm==0.6.5
 tk==0.1.0
 tokenizers==0.12.1
 toml==0.10.2
-torch==1.12.0
 transformers==4.20.1
 umap==0.1.1
 urllib3==1.26.11
